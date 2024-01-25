@@ -1,1 +1,8 @@
-Olá Mundo!!Teste
+Comandos para sincronizar pastas
+git init 
+git clone <url do repositorio>
+#fazer alterações necessarias
+cd pasta desejada
+git add .
+git commit -m "comentario"
+git push
