@@ -1,0 +1,7 @@
+BROKER: Pode ser uma função do gateway local ou que esteja na nuvem. 
+recebe informações dos clientes e repassa para frente ou pode processar também
+
+PUBLISHER: Coisas que se conectam ao broker para o envio de dados
+
+SUBSCRIBER: Dispositivos, apps, serviços que querem algum conjunto de dados. 
+se conectam ao broker para serem informados de novos dados
