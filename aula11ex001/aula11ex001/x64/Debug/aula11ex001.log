@@ -1,0 +1,3 @@
+﻿  aula11ex001.cpp
+C:\Users\24153794\Documents\logicaprogramacaocplusplus\aula11ex001\aula11ex001\aula11ex001.cpp(11,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  aula11ex001.vcxproj -> C:\Users\24153794\Documents\logicaprogramacaocplusplus\aula11ex001\x64\Debug\aula11ex001.exe

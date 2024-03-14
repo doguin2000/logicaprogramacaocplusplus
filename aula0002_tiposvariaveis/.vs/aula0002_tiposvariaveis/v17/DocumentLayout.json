@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\24153794\\Documents\\logicaprogramacaocplusplus\\aula0002_tiposvariaveis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29344C00-0CDF-445C-A6D6-21BDEDD9A349}|aula0002_tiposvariaveis\\aula0002_tiposvariaveis.vcxproj|C:\\Users\\24153794\\Documents\\logicaprogramacaocplusplus\\aula0002_tiposvariaveis\\aula0002_tiposvariaveis\\aula0002_tiposvariaveis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29344C00-0CDF-445C-A6D6-21BDEDD9A349}|aula0002_tiposvariaveis\\aula0002_tiposvariaveis.vcxproj|solutionrelative:aula0002_tiposvariaveis\\aula0002_tiposvariaveis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\24153794\\source\\repos\\aula0001_helloworld\\aula0001_helloworld\\aula0001_helloworld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "aula0001_helloworld.cpp",
+              "DocumentMoniker": "C:\\Users\\24153794\\source\\repos\\aula0001_helloworld\\aula0001_helloworld\\aula0001_helloworld.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\aula0001_helloworld\\aula0001_helloworld\\aula0001_helloworld.cpp",
+              "ToolTip": "C:\\Users\\24153794\\source\\repos\\aula0001_helloworld\\aula0001_helloworld\\aula0001_helloworld.cpp",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\aula0001_helloworld\\aula0001_helloworld\\aula0001_helloworld.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-15T18:45:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aula0002_tiposvariaveis.cpp",
+              "DocumentMoniker": "C:\\Users\\24153794\\Documents\\logicaprogramacaocplusplus\\aula0002_tiposvariaveis\\aula0002_tiposvariaveis\\aula0002_tiposvariaveis.cpp",
+              "RelativeDocumentMoniker": "aula0002_tiposvariaveis\\aula0002_tiposvariaveis.cpp",
+              "ToolTip": "C:\\Users\\24153794\\Documents\\logicaprogramacaocplusplus\\aula0002_tiposvariaveis\\aula0002_tiposvariaveis\\aula0002_tiposvariaveis.cpp",
+              "RelativeToolTip": "aula0002_tiposvariaveis\\aula0002_tiposvariaveis.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-15T18:42:25.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

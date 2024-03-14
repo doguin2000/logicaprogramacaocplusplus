@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\24153794\\Documents\\logicaprogramacaocplusplus\\aula11ex002\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71906CCB-FD38-438C-888C-F6A925E49031}|aula11ex002\\aula11ex002.vcxproj|C:\\Users\\24153794\\Documents\\logicaprogramacaocplusplus\\aula11ex002\\aula11ex002\\aula11ex002.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71906CCB-FD38-438C-888C-F6A925E49031}|aula11ex002\\aula11ex002.vcxproj|solutionrelative:aula11ex002\\aula11ex002.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "aula11ex002.cpp",
+              "DocumentMoniker": "C:\\Users\\24153794\\Documents\\logicaprogramacaocplusplus\\aula11ex002\\aula11ex002\\aula11ex002.cpp",
+              "RelativeDocumentMoniker": "aula11ex002\\aula11ex002.cpp",
+              "ToolTip": "C:\\Users\\24153794\\Documents\\logicaprogramacaocplusplus\\aula11ex002\\aula11ex002\\aula11ex002.cpp",
+              "RelativeToolTip": "aula11ex002\\aula11ex002.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-14T17:24:40.188Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

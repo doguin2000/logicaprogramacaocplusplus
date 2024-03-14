@@ -1,4 +1,6 @@
-#include<iostream> //chamar a biblioteca
+#include <iostream> //chamar a biblioteca
+using namespace std;
+
 int main(){
-    std::cout<<"gloriosa fabrica de chocolate"<<std::endl;
+    cout<<"Olá, Mundo!\n";
 }

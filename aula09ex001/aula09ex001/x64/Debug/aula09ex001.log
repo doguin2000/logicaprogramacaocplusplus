@@ -1,0 +1,4 @@
+﻿  aula09ex001.cpp
+C:\Users\24153794\Documents\logicaprogramacaocplusplus\aula09ex001\aula09ex001\aula09ex001.cpp(47,24): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\24153794\Documents\logicaprogramacaocplusplus\aula09ex001\aula09ex001\aula09ex001.cpp(14,33): warning C4101: 'investir': variável local não referenciada
+  aula09ex001.vcxproj -> C:\Users\24153794\Documents\logicaprogramacaocplusplus\aula09ex001\x64\Debug\aula09ex001.exe

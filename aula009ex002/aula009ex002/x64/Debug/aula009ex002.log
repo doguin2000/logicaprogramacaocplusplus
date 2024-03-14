@@ -1,0 +1,3 @@
+﻿  aula009ex002.cpp
+C:\Users\24153794\Documents\logicaprogramacaocplusplus\aula009ex002\aula009ex002\aula009ex002.cpp(15,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  aula009ex002.vcxproj -> C:\Users\24153794\Documents\logicaprogramacaocplusplus\aula009ex002\x64\Debug\aula009ex002.exe
